@@ -1,3 +1,3 @@
 # 🌐 MyBlog - A Creative Blogging Platform
 
-![MyBlog Banner]() <!-- Replace this URL with the actual image link -->
+![MyBlog Banner](https://github.com/rakshureddy1308/MyBlog/blob/main/assets/images/i-converter_com.jpg) 
